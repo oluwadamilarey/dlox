@@ -1,4 +1,4 @@
-## glox
+## Dlox
 
 An implementation of the tree-walking interpreter from [_Crafting Interpreters_](https://craftinginterpreters.com/)
 written in Go.
@@ -8,7 +8,7 @@ written in Go.
 To install, run:
 
 ```shell
-go get github.com/chidiwilliams/glox
+go get github.com/oluwadamilrey/dlox
 ```
 
 ## Usage
