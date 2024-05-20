@@ -3,8 +3,8 @@ package interpret
 import (
 	"fmt"
 
-	"github.com/chidiwilliams/glox/ast"
-	"github.com/chidiwilliams/glox/env"
+	"github.com/oluwadamilarey/dlox/ast"
+	"github.com/oluwadamilarey/dlox/env"
 )
 
 type class struct {

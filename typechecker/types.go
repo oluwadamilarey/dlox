@@ -3,7 +3,7 @@ package typechecker
 import (
 	"fmt"
 
-	"github.com/chidiwilliams/glox/env"
+	"github.com/oluwadamilarey/dlox/env"
 )
 
 type typeError struct {

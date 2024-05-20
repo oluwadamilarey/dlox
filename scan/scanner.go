@@ -5,7 +5,7 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/chidiwilliams/glox/ast"
+	"github.com/oluwadamilarey/dlox/ast"
 )
 
 // Scanner convert a source text

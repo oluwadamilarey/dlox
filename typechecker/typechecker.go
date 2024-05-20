@@ -3,9 +3,9 @@ package typechecker
 import (
 	"fmt"
 
-	"github.com/chidiwilliams/glox/ast"
-	"github.com/chidiwilliams/glox/env"
-	"github.com/chidiwilliams/glox/interpret"
+	"github.com/oluwadamilarey/dlox/ast"
+	"github.com/oluwadamilarey/dlox/env"
+	"github.com/oluwadamilarey/dlox/interpret"
 )
 
 func NewTypeChecker(interpreter *interpret.Interpreter) *TypeChecker {

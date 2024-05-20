@@ -7,11 +7,11 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/chidiwilliams/glox/ast"
-	"github.com/chidiwilliams/glox/interpret"
-	"github.com/chidiwilliams/glox/parse"
-	"github.com/chidiwilliams/glox/resolve"
-	"github.com/chidiwilliams/glox/scan"
+	"github.com/oluwadamilarey/dlox/ast"
+	"github.com/oluwadamilarey/dlox/interpret"
+	"github.com/oluwadamilarey/dlox/parse"
+	"github.com/oluwadamilarey/dlox/resolve"
+	"github.com/oluwadamilarey/dlox/scan"
 )
 
 func TestTypeChecker_CheckStmts(t *testing.T) {

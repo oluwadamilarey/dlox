@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/chidiwilliams/glox/ast"
+	"github.com/oluwadamilarey/dlox/ast"
 )
 
 type parseError struct {
